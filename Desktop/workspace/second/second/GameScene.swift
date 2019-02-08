@@ -1,10 +1,4 @@
-//
-//  GameScene.swift
-//  second
-//
-//  Created by 洞井僚太 on 2018/11/17.
-//  Copyright © 2018 洞井僚太. All rights reserved.
-//
+
 
 import SpriteKit
 import GameplayKit
